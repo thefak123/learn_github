@@ -1,1 +1,4 @@
-hehe
+red
+blue
+orange
+black
