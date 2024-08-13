@@ -1,1 +1,3 @@
-hehe
+red
+blue
+yellow
